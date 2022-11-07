@@ -1,0 +1,36 @@
+html, body{
+  color: lavender;
+  background: black;
+  text-emphasis-color: lavender;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+}
+img {  
+  max-width: 100%
+}
+#h {
+  background-color: blue;
+  font-size: 20pt;
+}
+#p0 {
+  background-image: url(https://media.discordapp.net/attachments/750482796262457408/1038941318493241444/unknown.png?width=2373&height=1335); background-size: 100%; 
+  background-repeat: no-repeat; background-attachment: fixed; 
+}
+#p {
+  font-size: 14pt;
+  color: lightgoldenrodyellow;
+}
+#p2 {
+  font-size: 14pt;
+  color: palegreen;
+}
+a 
+{ 
+    color: cyan; 
+} 
+ 
+a:hover 
+{  
+    color: darkcyan 
+} 
